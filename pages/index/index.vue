@@ -100,6 +100,7 @@
 				justify-content: center;
 				box-sizing: border-box;
 				padding: 12rpx;
+				margin-top: 12rpx;
 			}
 			.scratch-font{
 				font-size: 24rpx;
